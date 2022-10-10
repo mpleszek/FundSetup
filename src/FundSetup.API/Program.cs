@@ -1,6 +1,6 @@
 using Fund.API.Extensions;
 using FundAPI.EndpointDefinitions;
-using FundSetup.Entities.Persistence;
+using FundSetup.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

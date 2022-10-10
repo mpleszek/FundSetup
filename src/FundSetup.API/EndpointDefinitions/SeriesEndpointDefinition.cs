@@ -1,5 +1,5 @@
 ﻿using FundSetup.Entities.Interfaces;
-using FundSetup.Entities.Repositories;
+using FundSetup.Infrastructure.Repositories;
 using FundSetup.API.Interfaces;
 
 
