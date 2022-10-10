@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FundSetup.API", "FundSetup.API\FundSetup.API.csproj", "{FB66E835-56EE-4766-BF82-1E74FD19B991}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FundSetup.Entities", "FundSetup.Entities\FundSetup.Entities.csproj", "{3A0C2A28-1449-4DD9-B886-91B4366EF3A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB66E835-56EE-4766-BF82-1E74FD19B991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB66E835-56EE-4766-BF82-1E74FD19B991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB66E835-56EE-4766-BF82-1E74FD19B991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB66E835-56EE-4766-BF82-1E74FD19B991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0C2A28-1449-4DD9-B886-91B4366EF3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0C2A28-1449-4DD9-B886-91B4366EF3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0C2A28-1449-4DD9-B886-91B4366EF3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0C2A28-1449-4DD9-B886-91B4366EF3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB8808D1-3634-480A-B08F-96F37609B5F9}
+	EndGlobalSection
+EndGlobal
