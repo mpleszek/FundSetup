@@ -9,5 +9,6 @@ namespace FundSetup.Entities.Interfaces
 {
     public interface ISeriesRepository : IRepository<Series>
     {
+        public void Delete(int id);
     }
 }
